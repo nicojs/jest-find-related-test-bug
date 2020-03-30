@@ -1,0 +1,16 @@
+{
+  "name": "jest-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:unit": "jest",
+    "test": "jest --findRelatedTests src/sum.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.2.3"
+  }
+}
